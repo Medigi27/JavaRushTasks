@@ -9,11 +9,27 @@ import java.util.*;
 
 public class Solution {
     public static void main(String[] args) throws Exception {
-        Scanner in1 = new Scanner(System.in);
-        String name1 = in1.nextLine();
+        Scanner sc = new Scanner(System.in);
+        int counter = 0;
+        String[] input = new String[2];
+        while (counter == 2) {
+           input[counter] = sc.nextLine();
+           counter++;
+
+        }
+
+        in1.close();
+
+
+
+
+
         char[] arr1 = name1.toCharArray();
         int a = arr1.length;
-        in1.close();
+
+
+
+
         Scanner in2 = new Scanner(System.in);
         String name2 = in2.nextLine();
         char[] arr2 = name1.toCharArray();
@@ -25,8 +41,6 @@ public class Solution {
         if (a == b) {
             System.out.println("Длины имен равны");
         }
-        else {
 
-        }
     }
 }

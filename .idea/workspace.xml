@@ -1,79 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Polina.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/User01.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/1.JavaSyntax.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/Quest.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0403/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0403/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0404/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0404/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0408/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0408/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0409/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0409/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0410/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0410/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0411/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0411/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0412/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0412/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0413/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0413/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0421/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0421/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0423/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0423/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0424/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0424/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0425/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0425/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/2.JavaCore.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/Quest.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/3.JavaMultithreading.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/Quest.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/4.JavaCollections.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/Quest.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.OnlineInternship/5.OnlineInternship.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.OnlineInternship/src/Internship.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Instruction.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaRushTasks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/Quest.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0403/Cat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0403/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0404/Cat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0404/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0408/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0408/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0409/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0409/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0410/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0410/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0411/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0411/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0412/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0412/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0413/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0413/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0421/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0421/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0423/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0423/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0424/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0424/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0425/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0425/Условие.jrtc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="commit 1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0413/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0413/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0421/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0421/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0413/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0421/Solution.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -322,8 +257,17 @@
       <workItem from="1567334008362" duration="790000" />
       <workItem from="1567449104792" duration="580000" />
       <workItem from="1567573903613" duration="1391000" />
-      <workItem from="1567575684421" duration="13254000" />
+      <workItem from="1567575684421" duration="19937000" />
+      <workItem from="1567700483711" duration="1546000" />
     </task>
+    <task id="LOCAL-00001" summary="commit 1">
+      <created>1567690170355</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1567690170355</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -349,5 +293,10 @@
     <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
       <collection />
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="commit 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 1" />
   </component>
 </project>
