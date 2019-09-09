@@ -9,7 +9,7 @@ import java.util.*;
 
 public class Solution {
     public static void main(String[] args) throws Exception {
-        Scanner sc = new Scanner(System.in);
+        /**Scanner sc = new Scanner(System.in);
         int counter = 0;
         String[] input = new String[2];
         while (counter == 2) {
@@ -41,6 +41,8 @@ public class Solution {
         if (a == b) {
             System.out.println("Длины имен равны");
         }
-
+*/
     }
 }
+
+
